@@ -1,4 +1,4 @@
-  ### Ola, seja bem-vindo (a)!! Eu sou a Camille Oliveira 😁 ###
+  ### Olá 🤝 seja bem-vindo (a)!! Eu sou a Camille Oliveira 😁 ###
 - Cursando Análise e Desenvolvimento de Sistemas🎓
 - Em busca de Estágio na área de TI 💻
 
