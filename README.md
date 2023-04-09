@@ -2,7 +2,8 @@
 - Cursando Análise e Desenvolvimento de Sistemas🎓
 - Em busca de Estágio na área de TI 💻
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[(linkedin.com/in/camille-santos-oliveira-93065021b)]
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[(linkedin.com/in/camille-santos-oliveira-93065021b)]
 
 ##
 
