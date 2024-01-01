@@ -13,11 +13,12 @@
 <div display="display: inline_block"><br/>
 <img align="center" alt"camillehtml" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html&logoColor=white"/>
 <img align="center" alt"camillecss" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white"/>
-<img align="center" alt"camilleC" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="center" alt"camilleC" src="https://img.shields.io/badge/json-white?&style=for-the-badge&logo=&logoColor=ffffff"/>
 <img align="center" alt"camillePython" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="center" alt"camillejava" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" alt"camillesql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img align="center" alt"camillesql" src="https://img.shields.io/badge/Csharp-dc6edf?&style=for-the-badge&logo=csharp&logoColor=white"/> 
+<img align="center" alt"camillesql" src="https://img.shields.io/badge/sqlserver-white?&style=for-the-badge&logo=sqlserver&logoColor=ffffff"/> 
 </div>
 
 ##
