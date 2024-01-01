@@ -1,6 +1,6 @@
   ### 𝚂𝚎𝚓𝚊 𝚋𝚎𝚖-𝚟𝚒𝚗𝚍𝚘(𝚊) 𝚊𝚘 𝚖𝚎𝚞 𝚙𝚎𝚛𝚏𝚒𝚕. 😁🤝 ###
-- Cursando Análise e Desenvolvimento de Sistemas🎓
-- Programadora C# Junior 💻
+ 🎓 𝙲𝚞𝚛𝚜𝚊𝚗𝚍𝚘 𝙰𝚗𝚊́𝚕𝚒𝚜𝚎 𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜.
+ 💻 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚍𝚘𝚛𝚊 𝙵𝚞𝚕𝚕𝚂𝚝𝚊𝚌𝚔 𝙹𝚞𝚗𝚒𝚘𝚛.
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/camille-santos-oliveira-93065021b/)
@@ -23,5 +23,5 @@
 
 ##
 
-### E-mail para contato 📲
- camille12oliveira12@gmail.com 📧 
+### E-mail para contato.
+ 📲 camille12oliveira12@gmail.com 
