@@ -9,8 +9,7 @@
 
 ![Camille GitHub stats](https://github-readme-stats.vercel.app/api?username=camillesantosoliv&show_icons=true&theme=cobalt)
 
-### Linguagens de Programação 🖥️
-
+###
 <div display="display: inline_block"><br/>
 <img align="center" alt"camillehtml" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt"camillecss" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -18,7 +17,7 @@
 <img align="center" alt"camillePython" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="center" alt"camillejava" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" alt"camillesql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-<img align="center" alt"camillesql" src="https://img.shields.io/badge/logo-csharp-blue?logo=csharp&logoColor=F7DF1E"/> 
+<img align="center" alt"camillesql" src="https://icons8.com.br/icon/55205/c-afiado-logotipo"/> 
 </div>
 
 ##
