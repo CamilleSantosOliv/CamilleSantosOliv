@@ -1,36 +1,31 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Camille</title>
-</head>
-<body>
-    <h1>Seja bem-vindo(a) ao meu perfil. 😁🤝</h1>
+###  𝚂𝚎𝚓𝚊 𝚋𝚎𝚖-𝚟𝚒𝚗𝚍𝚘(𝚊) 𝚊𝚘 𝚖𝚎𝚞 𝚙𝚎𝚛𝚏𝚒𝚕. 😁🤝 ###
+ ##
+ 🎓 𝙲𝚞𝚛𝚜𝚊𝚗𝚍𝚘 𝙰𝚗𝚊́𝚕𝚒𝚜𝚎 𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜.
+ ##
+ 💻 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚍𝚘𝚛𝚊 𝙵𝚞𝚕𝚕𝚂𝚝𝚊𝚌𝚔 𝙹𝚞𝚗𝚒𝚘𝚛.
+ ##
 
-    <h2>🎓 Cursando Análise e Desenvolvimento de Sistemas.</h2>
-    <h2>💻 Programadora FullStack Junior.</h2>
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/camille-santos-oliveira-93065021b/)
 
-    <p>
-        <a href="https://www.linkedin.com/in/camille-santos-oliveira-93065021b/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Camille">
-        </a>
-    </p>
+##
 
-    <img src="https://github-readme-stats.vercel.app/api?username=camillesantosoliv&show_icons=true&theme=cobalt" alt="Camille GitHub stats">
+![Camille GitHub stats](https://github-readme-stats.vercel.app/api?username=camillesantosoliv&show_icons=true&theme=cobalt)
 
-    <div style="display: inline_block;"><br/>
-        <img align="center" alt="camillehtml" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img align="center" alt="camillecss" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img align="center" alt="camilleC" src="https://img.shields.io/badge/json-white?style=for-the-badge&logo=json&logoColor=ffffff"/>
-        <img align="center" alt="camillePython" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-        <img align="center" alt="camillejava" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img align="center" alt="camillesql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-        <img align="center" alt="camillesql" src="https://img.shields.io/badge/Csharp-dc6edf?style=for-the-badge&logo=csharp&logoColor=white"/> 
-        <img align="center" alt="camillesql" src="https://img.shields.io/badge/sqlserver-white?style=for-the-badge&logo=sqlserver&logoColor=ffffff"/> 
-    </div>
+###
+<div display="display: inline_block"><br/>
+<img align="center" alt"camillehtml" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html&logoColor=white"/>
+<img align="center" alt"camillecss" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white"/>
+<img align="center" alt"camilleC" src="https://img.shields.io/badge/json-white?&style=for-the-badge&logo=&logoColor=ffffff"/>
+<img align="center" alt"camillePython" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align="center" alt"camillejava" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align="center" alt"camillesql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img align="center" alt"camillesql" src="https://img.shields.io/badge/Csharp-dc6edf?&style=for-the-badge&logo=csharp&logoColor=white"/> 
+<img align="center" alt"camillesql" src="https://img.shields.io/badge/sqlserver-white?&style=for-the-badge&logo=sqlserver&logoColor=ffffff"/> 
+</div>
 
-    <h2>E-mail para contato.</h2>
-    <p>📲 camille12oliveira12@gmail.com</p>
-</body>
-</html>
+##
+
+### 𝙴-𝚖𝚊𝚒𝚕 𝚙𝚊𝚛𝚊 𝚌𝚘𝚗𝚝𝚊𝚝𝚘.
+ 📲 camille12oliveira12@gmail.com 
+ 
